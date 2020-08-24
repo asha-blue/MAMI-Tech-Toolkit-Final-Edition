@@ -1,0 +1,41 @@
+For reasons best known to itself (presumably to stop 'off ebay' sales) 
+Ebay has now outlawed ALL external links in sellers listings with 
+threats to suspend the listings/close the accounts of sellers who 
+fail to comply 
+
+Unfortunately that includes links to product drivers, product data sheets, 
+manufacturers pdf files etc. 
+
+As questions/answers may well involve mention of links to external files its 
+no longer possible to have those conversations through ebays send seller a 
+message facility
+
+Instead I can be reached at either of the following email addresses if you 
+have any questions regarding driver installation 
+
+steviehtc@gmail.com
+
+scooterboy101@btopenworld.com
+
+
+Apologies for any inconvenience
+Stevie C
+
+--------------------------------------------------------------------
+This archive contains all the CH340G driver files we used to include in 
+our listing for convenience of our customers
+
+Operatig systems covered
+
+Win X Win 7 Win 8 Win 10 OSX (pre Sierra) OSX (Sierra onwards)
+
+
+products covered:
+Arduino Nano
+Arduino CH340G USB to Serial converter (as used with Pro minis and Lilypads)
+Wemos D1 Mini ESP boards (and their direct clones)
+ESP01 USB to serial adapters
+
+Arduino UNO cloens using CH340G USB to Serial chip (we dont sell these particular 
+boards but the driver will be suitable for them)
+--------------------------------------------------------------------
