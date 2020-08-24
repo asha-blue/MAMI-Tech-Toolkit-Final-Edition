@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: Arpeggio fast two
+Params:
+  Wave: 0.5
+  Harmonics: 0
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.5
+  Sustain1: 0.5
+  Release1: 0.5
+  Repeat: 0.5
+  Velosens: 0.5
+  ADSR2wave: 0.5
+  ADSR2harm: 0.5
+  Speed1: 0.5
+  Range1: 0.5
+  Lag1: 0.5
+  On1: 0.5
+  Speed2: 0.5
+  Range2: 0.5
+  Lag2: 0.5
+  On2: 0.5
+  Speed3: 0.5
+  Range3: 0.5
+  Lag3: 0.5
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0.5
+  Memory: 0.5
+  FdBkAmount: 0.5
+  FdBkPhase: 0.5
+  Attack2: 0.5
+  Release2: 0.5
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 0
+  EQHPHz: 0.5
+  EQLPHz: 0.5
+  EQBRHz: 0.5
+  EQBRBW: 0.5
+  EQBRGain: 0.5
+  EQOn: 0.5
+  Gain_out: 0.87
+  Pan: 0.5
+  Noise: 0

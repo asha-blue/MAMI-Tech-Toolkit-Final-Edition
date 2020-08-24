@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioServerPlugIn_IOKitUserClients</key>
+	<array>
+		<string>RootDomainUserClient</string>
+		<string>IOHIDLibUserClient</string>
+		<string>IOBluetoothL2CAPChannelUserClient</string>
+		<string>IOBluetoothHCIUserClient</string>
+		<string>IOBluetoothDeviceUserClient</string>
+		<string>IOHIDResourceDeviceUserClient</string>
+	</array>
+	<key>AudioServerPlugIn_MachServices</key>
+	<array>
+		<string>com.apple.bluetoothd</string>
+		<string>com.apple.bluetoothaudiod</string>
+		<string>com.apple.BluetoothDOServer</string>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>16B2657</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>BluetoothAudioPlugIn</string>
+	<key>CFBundleGetInfoString</key>
+	<string>6.0.7, Copyright © 2002-2018 Apple Inc. All rights reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.audio.BluetoothAudioPlugIn</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>BluetoothAudioPlugIn</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.0.7</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>6.0.7f10</string>
+	<key>CFPlugInDynamicRegisterFunction</key>
+	<string></string>
+	<key>CFPlugInDynamicRegistration</key>
+	<string>NO</string>
+	<key>CFPlugInFactories</key>
+	<dict>
+		<key>EEA5773D-CC43-49F1-8E00-8F96E7D23B17</key>
+		<string>BluetoothHALPlugIn_Create</string>
+	</dict>
+	<key>CFPlugInTypes</key>
+	<dict>
+		<key>443ABAB8-E7B3-491A-B985-BEB9187030DB</key>
+		<array>
+			<string>EEA5773D-CC43-49F1-8E00-8F96E7D23B17</string>
+		</array>
+	</dict>
+	<key>CFPlugInUnloadFunction</key>
+	<string></string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>9P107g</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>17G53</string>
+	<key>DTSDKName</key>
+	<string>macosx10.13internal</string>
+	<key>DTXcode</key>
+	<string>0930</string>
+	<key>DTXcodeBuild</key>
+	<string>9P107g</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2002-2018 Apple Inc. All rights reserved.</string>
+</dict>
+</plist>

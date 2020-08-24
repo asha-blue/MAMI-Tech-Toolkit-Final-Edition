@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: Snare 03 Rim
+Params:
+  Wave: 0
+  Harmonics: 0.0732617
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.135791
+  Sustain1: 0
+  Release1: 0.0684642
+  Repeat: 0
+  Velosens: 0
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 0
+  Range1: 0
+  Lag1: 0.0586523
+  On1: 0
+  Speed2: 0.595
+  Range2: 0.11
+  Lag2: 0.69
+  On2: 0
+  Speed3: 0.575
+  Range3: 0.08
+  Lag3: 0.67
+  On3: 0
+  Stereo: 0.895
+  PolyMono: 1
+  Memory: 1
+  FdBkAmount: 0.337852
+  FdBkPhase: 0
+  Attack2: 0
+  Release2: 0.677617
+  ReverbSize: 0.634817
+  ReverbMix: 0.352699
+  ReverbOn: 1
+  EQHPHz: 0.6
+  EQLPHz: 0
+  EQBRHz: 0.370778
+  EQBRBW: 0.459438
+  EQBRGain: 0.0999999
+  EQOn: 1
+  Gain_out: 1
+  Pan: 0.502285
+  Noise: 1

@@ -1,0 +1,65 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.1.0 beta
+  format: 1
+  name: chinese gong
+Params:
+  Wave: 1
+  Harmonics: 0.67
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.529126
+  Sustain1: 0
+  Release1: 0.694175
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.795
+  Range1: 0.475
+  Lag1: 0.485
+  On1: 1
+  Speed2: 0.5
+  Range2: 0
+  Lag2: 0.295
+  On2: 1
+  Speed3: 0
+  Range3: 0
+  Lag3: 0
+  On3: 1
+  Stereo: 0.525
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.46
+  FdBkPhase: 1
+  Attack2: 0
+  Release2: 0.208738
+  ReverbSize: 0.441176
+  ReverbMix: 0.470588
+  ReverbOn: 1
+  EQHPHz: 0.482
+  EQLPHz: 1
+  EQBRHz: 0.4211
+  EQBRBW: 0.733
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 1
+  Pan: 0.485
+  Noise: 0
+  RangeHarmonics: 1
+  LFO1Type: 0
+  LFO1Speed: 0.423
+  LFO1Delay: 0.11
+  LFO1Depth: 0.022
+  PBrange: 0.5
+  KTCenter: 0.46
+  KTSlope: 0.278
+  KTToAmplitude: 1
+  KTToHarmonics: 0
+  NoiseHamonicsLink: 0
+  LFO1Targets: 3
+  unused: 0
+  CCTargets: 0
+  ATTargets: 0

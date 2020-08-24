@@ -1,0 +1,65 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.1.0 beta
+  format: 1
+  name: slowest asteroids
+Params:
+  Wave: 0.25
+  Harmonics: 0
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.470874
+  Decay1: 0.956311
+  Sustain1: 0.723301
+  Release1: 0.800971
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.8
+  Range1: 0.03
+  Lag1: 0.5
+  On1: 0.5
+  Speed2: 0.775
+  Range2: 0.00500001
+  Lag2: 0.5
+  On2: 0.5
+  Speed3: 0.68
+  Range3: 0.02
+  Lag3: 0.22
+  On3: 0.5
+  Stereo: 0.57
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 1
+  FdBkPhase: 1
+  Attack2: 0.635922
+  Release2: 1
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 1
+  EQHPHz: 0.1353
+  EQLPHz: 0.785
+  EQBRHz: 0.77
+  EQBRBW: 0.896
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.655
+  Pan: 0.44
+  Noise: 0
+  RangeHarmonics: 0
+  LFO1Type: 0
+  LFO1Speed: 0.0849999
+  LFO1Delay: 0.016
+  LFO1Depth: 1
+  PBrange: 0.5
+  KTCenter: 0.5
+  KTSlope: 0.477
+  KTToAmplitude: 0
+  KTToHarmonics: 0
+  NoiseHamonicsLink: 0
+  LFO1Targets: 8
+  unused: 0
+  CCTargets: 0
+  ATTargets: 0

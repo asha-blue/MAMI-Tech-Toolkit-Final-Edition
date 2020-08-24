@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: pad choir
+Params:
+  Wave: 0
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.140777
+  Sustain1: 1
+  Release1: 0.296117
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 1
+  Range1: 0.325
+  Lag1: 0.71
+  On1: 0.5
+  Speed2: 0.755
+  Range2: 0.255
+  Lag2: 0.695
+  On2: 0
+  Speed3: 0.39
+  Range3: 0.995
+  Lag3: 1
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 1
+  FdBkPhase: 0
+  Attack2: 0.5
+  Release2: 0.5
+  ReverbSize: 0.838235
+  ReverbMix: 0.588235
+  ReverbOn: 1
+  EQHPHz: 0.5
+  EQLPHz: 0.5
+  EQBRHz: 0.5
+  EQBRBW: 0.5
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.89
+  Pan: 0.5
+  Noise: 0

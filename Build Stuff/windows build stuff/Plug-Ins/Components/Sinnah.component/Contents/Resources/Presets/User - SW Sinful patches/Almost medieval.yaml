@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Almost medieval
+Params:
+  Wave: 0.37875
+  Harmonics: 0.583375
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.194728
+  Sustain1: 0.688684
+  Release1: 0.467738
+  Repeat: 0.495
+  Velosens: 0.7752
+  ADSR2wave: 0.505
+  ADSR2harm: 0.2525
+  Speed1: 1
+  Range1: 0.160875
+  Lag1: 0.59385
+  On1: 0.7525
+  Speed2: 0.8459
+  Range2: 0.126225
+  Lag2: 0.5435
+  On2: 0.505
+  Speed3: 0.44555
+  Range3: 0.61625
+  Lag3: 0.7475
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.90405
+  FdBkPhase: 0.505
+  Attack2: 0.318592
+  Release2: 0.480388
+  ReverbSize: 0.815956
+  ReverbMix: 0.595662
+  ReverbOn: 1
+  EQHPHz: 0.633522
+  EQLPHz: 0.312645
+  EQBRHz: 0.50914
+  EQBRBW: 0.560095
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.927875
+  Pan: 0.5
+  Noise: 0.078275
+  RangeHarmonics: 0

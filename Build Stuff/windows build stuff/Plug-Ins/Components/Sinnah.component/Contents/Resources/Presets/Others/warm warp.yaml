@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: warm warp
+Params:
+  Wave: 1
+  Harmonics: 0
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.451456
+  Sustain1: 0.42233
+  Release1: 0.18932
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 0.03
+  Range1: 0.03
+  Lag1: 0
+  On1: 1
+  Speed2: 0.015
+  Range2: 0.025
+  Lag2: 0
+  On2: 1
+  Speed3: 0.075
+  Range3: 0.075
+  Lag3: 0.5
+  On3: 0
+  Stereo: 0
+  PolyMono: 1
+  Memory: 0
+  FdBkAmount: 0.64
+  FdBkPhase: 0
+  Attack2: 0.179612
+  Release2: 0.0339806
+  ReverbSize: 0.470588
+  ReverbMix: 0.411765
+  ReverbOn: 1
+  EQHPHz: 0.5052
+  EQLPHz: 0.594
+  EQBRHz: 0.6626
+  EQBRBW: 0.407
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.535
+  Pan: 0.5
+  Noise: 0

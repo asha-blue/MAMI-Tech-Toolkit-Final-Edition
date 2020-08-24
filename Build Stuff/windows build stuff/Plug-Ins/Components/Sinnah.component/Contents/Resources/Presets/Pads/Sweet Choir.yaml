@@ -1,0 +1,64 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.1.0 beta
+  format: 1
+  name: Sweet Choir
+Params:
+  Wave: 0.75
+  Harmonics: 0.485
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.218447
+  Decay1: 0.5
+  Sustain1: 1
+  Release1: 0.781553
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.04
+  Range1: 0.035
+  Lag1: 0.395
+  On1: 0.5
+  Speed2: 0
+  Range2: 0.815
+  Lag2: 0.585
+  On2: 0
+  Speed3: 0
+  Range3: 0.9
+  Lag3: 0.45
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.64
+  FdBkPhase: 0
+  Attack2: 0.131068
+  Release2: 0.606796
+  ReverbSize: 0.720588
+  ReverbMix: 0.338235
+  ReverbOn: 1
+  EQHPHz: 0.5
+  EQLPHz: 0.405
+  EQBRHz: 0.6171
+  EQBRBW: 0.5
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.743347
+  Pan: 0.5
+  Noise: 0.045
+  RangeHarmonics: 1
+  LFO1Type: 1
+  LFO1Speed: 0.6948
+  LFO1Delay: 0.341
+  LFO1Depth: 0.643
+  LFO1Targets: 3
+  PBrange: 0.5
+  unused: 0
+  CCTargets: 0
+  ATTargets: 0
+  KTCenter: 0.5
+  KTSlope: 0.5
+  KTToAmplitude: 0
+  KTToHarmonics: 0

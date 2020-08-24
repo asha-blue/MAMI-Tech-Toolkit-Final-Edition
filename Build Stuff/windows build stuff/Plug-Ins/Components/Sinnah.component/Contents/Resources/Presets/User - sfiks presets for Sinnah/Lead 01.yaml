@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: Lead 01
+Params:
+  Wave: 0.25
+  Harmonics: 0
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.00831431
+  Decay1: 0.209026
+  Sustain1: 0.207533
+  Release1: 0.010982
+  Repeat: 0
+  Velosens: 0
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 0.565
+  Range1: 0.13
+  Lag1: 0.18
+  On1: 1
+  Speed2: 0.4
+  Range2: 0.21
+  Lag2: 0.195
+  On2: 1
+  Speed3: 0.285
+  Range3: 0.31
+  Lag3: 0.745
+  On3: 1
+  Stereo: 0.493457
+  PolyMono: 1
+  Memory: 0
+  FdBkAmount: 0.243867
+  FdBkPhase: 0
+  Attack2: 0
+  Release2: 0.00977534
+  ReverbSize: 0.823529
+  ReverbMix: 0.235294
+  ReverbOn: 1
+  EQHPHz: 0.2102
+  EQLPHz: 0.691
+  EQBRHz: 0.5665
+  EQBRBW: 0.826
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.91
+  Pan: 0.497481
+  Noise: 0.288672

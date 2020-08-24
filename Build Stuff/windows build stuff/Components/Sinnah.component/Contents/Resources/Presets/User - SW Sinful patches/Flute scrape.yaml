@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Flute scrape
+Params:
+  Wave: 0.75
+  Harmonics: 0.537598
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.00800341
+  Decay1: 0.0728534
+  Sustain1: 0.199067
+  Release1: 0.053436
+  Repeat: 0.333333
+  Velosens: 0.7752
+  ADSR2wave: 0.150722
+  ADSR2harm: 0.160915
+  Speed1: 0.512793
+  Range1: 0.173156
+  Lag1: 0.54917
+  On1: 0.511258
+  Speed2: 0.267187
+  Range2: 0
+  Lag2: 0.531684
+  On2: 1
+  Speed3: 0.22214
+  Range3: 0.12722
+  Lag3: 0.751746
+  On3: 1
+  Stereo: 0.985252
+  PolyMono: 0.150722
+  Memory: 0
+  FdBkAmount: 0.821971
+  FdBkPhase: 0
+  Attack2: 0.355167
+  Release2: 0.600043
+  ReverbSize: 0.884157
+  ReverbMix: 0.539673
+  ReverbOn: 1
+  EQHPHz: 0.497244
+  EQLPHz: 0.506987
+  EQBRHz: 0.503027
+  EQBRBW: 0.505024
+  EQBRGain: 0.173238
+  EQOn: 0.511258
+  Gain_out: 0.864953
+  Pan: 0.5
+  Noise: 0.339128
+  RangeHarmonics: 1

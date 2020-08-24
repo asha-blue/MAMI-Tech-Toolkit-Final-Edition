@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Into the void
+Params:
+  Wave: 0.25
+  Harmonics: 0.36
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.470874
+  Decay1: 0.267028
+  Sustain1: 0.723301
+  Release1: 0.830135
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.8
+  Range1: 0.27
+  Lag1: 0.5
+  On1: 0.5
+  Speed2: 0.91
+  Range2: 0.135
+  Lag2: 0.5
+  On2: 0.5
+  Speed3: 0.845
+  Range3: 0.11
+  Lag3: 0.22
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 1
+  FdBkPhase: 1
+  Attack2: 0.635922
+  Release2: 0.849553
+  ReverbSize: 0.988095
+  ReverbMix: 0.764706
+  ReverbOn: 1
+  EQHPHz: 0.1289
+  EQLPHz: 0.740004
+  EQBRHz: 0.77
+  EQBRBW: 0.896
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.655
+  Pan: 0.495
+  Noise: 0.125
+  RangeHarmonics: 0

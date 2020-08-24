@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: high vibe
+Params:
+  Wave: 0
+  Harmonics: 1
+  Octave: 1
+  Mastertuning: 0.5
+  Attack1: 0.0145631
+  Decay1: 0.665049
+  Sustain1: 0
+  Release1: 0.830097
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.64
+  Range1: 0.02
+  Lag1: 0
+  On1: 1
+  Speed2: 0.105
+  Range2: 0.135
+  Lag2: 0
+  On2: 1
+  Speed3: 0.5
+  Range3: 0.245
+  Lag3: 0.5
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.325
+  FdBkPhase: 1
+  Attack2: 0.140777
+  Release2: 0.461165
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 0
+  EQHPHz: 0.7644
+  EQLPHz: 0.129
+  EQBRHz: 0.5181
+  EQBRBW: 0.619
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.965
+  Pan: 0.5
+  Noise: 0

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioServerPlugIn_MachServices</key>
+	<array>
+		<string>com.rogueamoeba.instanton-agent</string>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>15G1510</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>InstantOn</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.rogueamoeba.InstantOn.driver</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>InstantOn</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>8.4.4</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>8.4.4</string>
+	<key>CFPlugInFactories</key>
+	<dict>
+		<key>EEA5773D-CC43-49F1-8E00-8F96E7D23B17</key>
+		<string>ECSAudioServerPlugInFactory</string>
+	</dict>
+	<key>CFPlugInTypes</key>
+	<dict>
+		<key>443ABAB8-E7B3-491A-B985-BEB9187030DB</key>
+		<array>
+			<string>EEA5773D-CC43-49F1-8E00-8F96E7D23B17</string>
+		</array>
+	</dict>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>8C1002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>16C58</string>
+	<key>DTSDKName</key>
+	<string>macosx10.12</string>
+	<key>DTXcode</key>
+	<string>0821</string>
+	<key>DTXcodeBuild</key>
+	<string>8C1002</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>8.4.4 ©2012-2014 Rogue Amoeba Software, Inc. All rights reserved.</string>
+	<key>RABuildVersion</key>
+	<dict>
+		<key>BuildDate</key>
+		<string>2017-09-27T19:31:21Z</string>
+		<key>BuildStyle</key>
+		<string>Release FAT</string>
+		<key>RepositoryBranch</key>
+		<string>refs/heads/master</string>
+		<key>RepositoryVersion</key>
+		<string>e0de8e36fa9339b168996fc4d1a79824aed2a016</string>
+	</dict>
+</dict>
+</plist>

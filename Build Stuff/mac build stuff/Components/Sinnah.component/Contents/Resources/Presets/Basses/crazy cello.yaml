@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: crazy cello
+Params:
+  Wave: 0
+  Harmonics: 0
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.0533981
+  Sustain1: 0.325243
+  Release1: 0.315534
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.08
+  Range1: 0.05
+  Lag1: 0
+  On1: 1
+  Speed2: 0.79
+  Range2: 0.01
+  Lag2: 0.5
+  On2: 1
+  Speed3: 0.075
+  Range3: 0.075
+  Lag3: 0.5
+  On3: 0
+  Stereo: 0
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.895
+  FdBkPhase: 0
+  Attack2: 0.131068
+  Release2: 0.0436893
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 0
+  EQHPHz: 0.039
+  EQLPHz: 0.593
+  EQBRHz: 0.3801
+  EQBRBW: 0.235
+  EQBRGain: 0.636
+  EQOn: 0.5
+  Gain_out: 0.5
+  Pan: 0.53
+  Noise: 0.48

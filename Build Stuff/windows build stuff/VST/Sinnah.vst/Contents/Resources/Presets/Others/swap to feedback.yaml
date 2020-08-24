@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: swap to feedback
+Params:
+  Wave: 0.5
+  Harmonics: 0
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.315534
+  Decay1: 0.0533981
+  Sustain1: 0.0825243
+  Release1: 0.839806
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.565
+  Range1: 0.325
+  Lag1: 0.73
+  On1: 0.5
+  Speed2: 0.5
+  Range2: 0.33
+  Lag2: 0.405
+  On2: 0.5
+  Speed3: 0.5
+  Range3: 0.255
+  Lag3: 0.585
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 1
+  FdBkPhase: 0
+  Attack2: 0.5
+  Release2: 0.771845
+  ReverbSize: 0.882353
+  ReverbMix: 0.588235
+  ReverbOn: 1
+  EQHPHz: 0.347
+  EQLPHz: 0.5
+  EQBRHz: 0.6171
+  EQBRBW: 0.5
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.985
+  Pan: 0.5
+  Noise: 0.33
+  RangeHarmonics: 0

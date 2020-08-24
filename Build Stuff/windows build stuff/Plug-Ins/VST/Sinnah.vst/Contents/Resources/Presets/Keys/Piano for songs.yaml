@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: Piano for songs
+Params:
+  Wave: 1
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.694175
+  Sustain1: 0.0631068
+  Release1: 0.364078
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.965
+  Range1: 0.025
+  Lag1: 0
+  On1: 1
+  Speed2: 0
+  Range2: 0
+  Lag2: 0
+  On2: 0
+  Speed3: 0.99
+  Range3: 0.05
+  Lag3: 0
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0
+  FdBkPhase: 1
+  Attack2: 0
+  Release2: 0
+  ReverbSize: 0.647059
+  ReverbMix: 0.411765
+  ReverbOn: 1
+  EQHPHz: 0.2075
+  EQLPHz: 0.196
+  EQBRHz: 0.6626
+  EQBRBW: 0
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.83
+  Pan: 0.5
+  Noise: 0

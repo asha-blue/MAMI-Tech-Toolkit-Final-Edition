@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Cello ish
+Params:
+  Wave: 1
+  Harmonics: 0.07
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.334951
+  Decay1: 0.34466
+  Sustain1: 0.626214
+  Release1: 0.257282
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.195
+  Range1: 0.085
+  Lag1: 0.99
+  On1: 0.5
+  Speed2: 0.13
+  Range2: 0.0950001
+  Lag2: 0.835
+  On2: 1
+  Speed3: 0.15
+  Range3: 0.085
+  Lag3: 0.31
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.295
+  FdBkPhase: 0
+  Attack2: 0.5
+  Release2: 0.5
+  ReverbSize: 0.988095
+  ReverbMix: 0.205882
+  ReverbOn: 1
+  EQHPHz: 0.1867
+  EQLPHz: 0.5
+  EQBRHz: 0.5
+  EQBRBW: 0.592
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.635
+  Pan: 0.57
+  Noise: 0.135
+  RangeHarmonics: 0

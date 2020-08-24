@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: almost piano
+Params:
+  Wave: 0
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 1
+  Sustain1: 0
+  Release1: 0.218447
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.375
+  Range1: 0.01
+  Lag1: 0
+  On1: 1
+  Speed2: 0.89
+  Range2: 0.015
+  Lag2: 0.515
+  On2: 1
+  Speed3: 0.5
+  Range3: 0.5
+  Lag3: 0.04
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.42
+  FdBkPhase: 1
+  Attack2: 0.5
+  Release2: 1
+  ReverbSize: 0.205882
+  ReverbMix: 0.5
+  ReverbOn: 1
+  EQHPHz: 0.366
+  EQLPHz: 0.427
+  EQBRHz: 0.7222
+  EQBRBW: 0.7323
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.71
+  Pan: 0.555
+  Noise: 0.055

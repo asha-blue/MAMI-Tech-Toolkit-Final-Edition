@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: sad sick flutes
+Params:
+  Wave: 1
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.597087
+  Sustain1: 0.0631068
+  Release1: 0.868932
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 1
+  ADSR2harm: 1
+  Speed1: 0.23
+  Range1: 0.165
+  Lag1: 0
+  On1: 1
+  Speed2: 0
+  Range2: 0.015
+  Lag2: 0.5
+  On2: 1
+  Speed3: 0
+  Range3: 0
+  Lag3: 0.13
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.52
+  FdBkPhase: 1
+  Attack2: 0
+  Release2: 1
+  ReverbSize: 1
+  ReverbMix: 0.117647
+  ReverbOn: 1
+  EQHPHz: 0.2186
+  EQLPHz: 0.196
+  EQBRHz: 0.5055
+  EQBRBW: 0.436
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.805
+  Pan: 0.51
+  Noise: 0.235

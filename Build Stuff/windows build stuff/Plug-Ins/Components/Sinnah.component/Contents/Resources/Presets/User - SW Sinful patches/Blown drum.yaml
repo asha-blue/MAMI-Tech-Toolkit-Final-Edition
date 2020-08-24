@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Blown drum
+Params:
+  Wave: 0.120673
+  Harmonics: 0.482692
+  Octave: 0.241346
+  Mastertuning: 0.5
+  Attack1: 0.0678025
+  Decay1: 0.299103
+  Sustain1: 0.223152
+  Release1: 0.241187
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0.482692
+  ADSR2harm: 1
+  Speed1: 0.671048
+  Range1: 0.096375
+  Lag1: 0.345539
+  On1: 0.741346
+  Speed2: 0.710385
+  Range2: 0.124644
+  Lag2: 0.0941249
+  On2: 0.741346
+  Speed3: 0.269481
+  Range3: 0.157394
+  Lag3: 0.876914
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.756865
+  FdBkPhase: 0.482692
+  Attack2: 0.250896
+  Release2: 0.91713
+  ReverbSize: 0.602913
+  ReverbMix: 0.364621
+  ReverbOn: 1
+  EQHPHz: 0.31511
+  EQLPHz: 0.576571
+  EQBRHz: 0.36656
+  EQBRBW: 0.588607
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.935865
+  Pan: 0.521721
+  Noise: 0.308462
+  RangeHarmonics: 0

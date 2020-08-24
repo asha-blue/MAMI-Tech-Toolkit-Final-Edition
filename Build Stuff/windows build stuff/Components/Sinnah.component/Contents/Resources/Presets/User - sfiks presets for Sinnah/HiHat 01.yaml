@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: HH 01
+Params:
+  Wave: 0
+  Harmonics: 0.26
+  Octave: 1
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.0728155
+  Sustain1: 0
+  Release1: 0.208738
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.27
+  Range1: 0.68
+  Lag1: 0.625
+  On1: 1
+  Speed2: 0.12
+  Range2: 0.29
+  Lag2: 0.2
+  On2: 0
+  Speed3: 0.12
+  Range3: 0.775
+  Lag3: 0.22
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.43
+  FdBkPhase: 1
+  Attack2: 0
+  Release2: 0
+  ReverbSize: 0.573529
+  ReverbMix: 0.147059
+  ReverbOn: 0
+  EQHPHz: 1
+  EQLPHz: 0.175309
+  EQBRHz: 0.6565
+  EQBRBW: 0.8381
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 1
+  Pan: 0.5
+  Noise: 1

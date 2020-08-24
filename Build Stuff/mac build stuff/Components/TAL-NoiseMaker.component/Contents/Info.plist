@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioComponents</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>TAL-NoiseMaker</string>
+			<key>factoryFunction</key>
+			<string>TalNoiseMakerAUFactory</string>
+			<key>manufacturer</key>
+			<string>TOGU</string>
+			<key>name</key>
+			<string>TAL-Togu Audio Line: TAL NoiseMaker Plugin</string>
+			<key>subtype</key>
+			<string>ncut</string>
+			<key>type</key>
+			<string>aumu</string>
+			<key>version</key>
+			<integer>262658</integer>
+		</dict>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>16B2555</string>
+	<key>CFBundleDisplayName</key>
+	<string>tal-noisemaker</string>
+	<key>CFBundleExecutable</key>
+	<string>TAL-NoiseMaker</string>
+	<key>CFBundleIdentifier</key>
+	<string>ch.toguaudioline.talnoisemaker</string>
+	<key>CFBundleName</key>
+	<string>tal-noisemaker</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>4.2.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>4.2.2</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>8B62</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>16B2649</string>
+	<key>DTSDKName</key>
+	<string>macosx10.12</string>
+	<key>DTXcode</key>
+	<string>0810</string>
+	<key>DTXcodeBuild</key>
+	<string>8B62</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string></string>
+</dict>
+</plist>

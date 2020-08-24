@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AudioServerPlugIn_IOKitUserClients</key>
+	<array>
+		<string>IOTimeSyncUserClient</string>
+		<string>IOTimeSyncClockManagerUserClient</string>
+		<string>IOTimeSyncgPTPManagerUserClient</string>
+		<string>IOTimeSyncDomainUserClient</string>
+		<string>IOTimeSyncNetworkPortUserClient</string>
+	</array>
+	<key>AudioServerPlugin_MachServices</key>
+	<array>
+		<string>com.apple.tsloader</string>
+	</array>
+	<key>BuildMachineOSBuild</key>
+	<string>16B2657</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>AppleTimeSyncAudioClock</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.audio.AppleTimeSyncAudioClock</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AppleTimeSyncAudioClock</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>680.15</string>
+	<key>CFPlugInFactories</key>
+	<dict>
+		<key>24C1A210-821E-407B-86B4-F0466416A8E0</key>
+		<string>AppleTimeSyncAudioClockFactory</string>
+	</dict>
+	<key>CFPlugInTypes</key>
+	<dict>
+		<key>443ABAB8-E7B3-491A-B985-BEB9187030DB</key>
+		<array>
+			<string>24C1A210-821E-407B-86B4-F0466416A8E0</string>
+		</array>
+	</dict>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>9P107g</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>17G19</string>
+	<key>DTSDKName</key>
+	<string>macosx10.13internal</string>
+	<key>DTXcode</key>
+	<string>0930</string>
+	<key>DTXcodeBuild</key>
+	<string>9P107g</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>AppleTimeSyncAudioClock 680.15, Copyright © 2014-2018 Apple Inc. All rights reserved.</string>
+</dict>
+</plist>

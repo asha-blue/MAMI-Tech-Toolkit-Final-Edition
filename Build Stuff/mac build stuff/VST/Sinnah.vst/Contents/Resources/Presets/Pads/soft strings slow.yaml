@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: soft strings slow
+Params:
+  Wave: 0
+  Harmonics: 0
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.315534
+  Decay1: 0.5
+  Sustain1: 1
+  Release1: 0.800971
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.31
+  Range1: 0.08
+  Lag1: 0.275
+  On1: 1
+  Speed2: 0.055
+  Range2: 0
+  Lag2: 0.49
+  On2: 0
+  Speed3: 0.5
+  Range3: 0
+  Lag3: 1
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 1
+  FdBkPhase: 0
+  Attack2: 0.5
+  Release2: 0.5
+  ReverbSize: 0.985294
+  ReverbMix: 0.485294
+  ReverbOn: 1
+  EQHPHz: 0.5
+  EQLPHz: 0.719
+  EQBRHz: 0.6171
+  EQBRBW: 0.7266
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.425
+  Pan: 0.5
+  Noise: 0

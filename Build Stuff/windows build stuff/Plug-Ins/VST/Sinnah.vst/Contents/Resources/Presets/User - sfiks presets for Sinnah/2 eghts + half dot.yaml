@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: 2 eghts + half dot
+Params:
+  Wave: 1
+  Harmonics: 0.0122656
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.0348006
+  Decay1: 0.197292
+  Sustain1: 0.162119
+  Release1: 0
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 0.0448633
+  Range1: 0.174492
+  Lag1: 0.0462891
+  On1: 0
+  Speed2: 0.315
+  Range2: 0.75
+  Lag2: 0.68
+  On2: 0
+  Speed3: 0.26
+  Range3: 0.285
+  Lag3: 0.11
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.28
+  FdBkPhase: 0
+  Attack2: 0.5
+  Release2: 0.5
+  ReverbSize: 0.434923
+  ReverbMix: 0.297192
+  ReverbOn: 0
+  EQHPHz: 0.4
+  EQLPHz: 0
+  EQBRHz: 0.6
+  EQBRBW: 0.877734
+  EQBRGain: 0.00946307
+  EQOn: 1
+  Gain_out: 0.715
+  Pan: 0.5
+  Noise: 0.00644533

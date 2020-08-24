@@ -1,0 +1,64 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.1.0 beta
+  format: 1
+  name: free jazz
+Params:
+  Wave: 0.75
+  Harmonics: 0.56
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 1
+  Decay1: 1
+  Sustain1: 0.490291
+  Release1: 0.684466
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.565
+  Range1: 0
+  Lag1: 0.485
+  On1: 0
+  Speed2: 0
+  Range2: 0
+  Lag2: 0.74
+  On2: 0
+  Speed3: 0.7
+  Range3: 0.165
+  Lag3: 0.48
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.84
+  FdBkPhase: 1
+  Attack2: 0.0533981
+  Release2: 0.587379
+  ReverbSize: 0.926471
+  ReverbMix: 0.191176
+  ReverbOn: 1
+  EQHPHz: 0.372
+  EQLPHz: 0.704
+  EQBRHz: 0.3511
+  EQBRBW: 0.248
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.823347
+  Pan: 0.55
+  Noise: 0
+  RangeHarmonics: 1
+  LFO1Type: 0.75
+  LFO1Speed: 0.485
+  LFO1Delay: 0.648
+  LFO1Depth: 1
+  LFO1Targets: 3
+  PBrange: 0.502
+  unused: 0
+  CCTargets: 0
+  ATTargets: 0
+  KTCenter: 0.46
+  KTSlope: 0.242
+  KTToAmplitude: 0
+  KTToHarmonics: 0

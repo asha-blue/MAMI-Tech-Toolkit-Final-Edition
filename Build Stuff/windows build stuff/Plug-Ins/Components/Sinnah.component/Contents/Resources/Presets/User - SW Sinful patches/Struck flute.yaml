@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Struck flute
+Params:
+  Wave: 0.220787
+  Harmonics: 0.470738
+  Octave: 0.229807
+  Mastertuning: 0.5
+  Attack1: 0.00315039
+  Decay1: 0.0541475
+  Sustain1: 0.00796941
+  Release1: 0.231699
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0.0360773
+  ADSR2harm: 0.995008
+  Speed1: 0.43156
+  Range1: 0.0423567
+  Lag1: 0.220558
+  On1: 0.995008
+  Speed2: 0.466053
+  Range2: 0.0263792
+  Lag2: 0.217855
+  On2: 0.995008
+  Speed3: 0.651669
+  Range3: 0.0209671
+  Lag3: 0.545873
+  On3: 0.976969
+  Stereo: 0.921548
+  PolyMono: 0.206776
+  Memory: 0
+  FdBkAmount: 0.546718
+  FdBkPhase: 0.0360773
+  Attack2: 0.0209292
+  Release2: 0.621737
+  ReverbSize: 0.892164
+  ReverbMix: 0.23519
+  ReverbOn: 1
+  EQHPHz: 0.6522
+  EQLPHz: 0.385775
+  EQBRHz: 0.605859
+  EQBRBW: 0.48209
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.689306
+  Pan: 0.633014
+  Noise: 0.873648
+  RangeHarmonics: 0

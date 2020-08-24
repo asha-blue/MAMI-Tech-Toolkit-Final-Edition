@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Flute orch
+Params:
+  Wave: 0.31
+  Harmonics: 0.379999
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.183593
+  Decay1: 0.363496
+  Sustain1: 0.69
+  Release1: 0.609127
+  Repeat: 0.379999
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 0.621799
+  Range1: 0.2227
+  Lag1: 0.5736
+  On1: 0.81
+  Speed2: 0.6279
+  Range2: 0.1899
+  Lag2: 0.7508
+  On2: 0.620001
+  Speed3: 0.6752
+  Range3: 0.483499
+  Lag3: 0.596999
+  On3: 0.620001
+  Stereo: 0.593899
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.379999
+  FdBkPhase: 0
+  Attack2: 0.5
+  Release2: 0.5
+  ReverbSize: 0.883824
+  ReverbMix: 0.378529
+  ReverbOn: 1
+  EQHPHz: 0.44854
+  EQLPHz: 0.70088
+  EQBRHz: 0.673166
+  EQBRBW: 0.675646
+  EQBRGain: 0.620001
+  EQOn: 0.81
+  Gain_out: 0.8032
+  Pan: 0.5
+  Noise: 0
+  RangeHarmonics: 1

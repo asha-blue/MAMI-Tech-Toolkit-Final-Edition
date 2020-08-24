@@ -1,0 +1,52 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: Reediculous
+Params:
+  Wave: 0.25
+  Harmonics: 0.695
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.0796748
+  Decay1: 0.56748
+  Sustain1: 0.413008
+  Release1: 0.152846
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.475
+  Range1: 0.03
+  Lag1: 0.285
+  On1: 1
+  Speed2: 0.08
+  Range2: 0.025
+  Lag2: 0.135
+  On2: 1
+  Speed3: 0.275
+  Range3: 0.02
+  Lag3: 0.28
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 1
+  Memory: 0
+  FdBkAmount: 0.335
+  FdBkPhase: 0
+  Attack2: 0
+  Release2: 0.5
+  ReverbSize: 0.130863
+  ReverbMix: 0.229628
+  ReverbOn: 1
+  EQHPHz: 0.5
+  EQLPHz: 0.5
+  EQBRHz: 0.6171
+  EQBRBW: 0.5
+  EQBRGain: 0.2264
+  EQOn: 1
+  Gain_out: 0.693347
+  Pan: 0.5
+  Noise: 0.02
+  RangeHarmonics: 1
+

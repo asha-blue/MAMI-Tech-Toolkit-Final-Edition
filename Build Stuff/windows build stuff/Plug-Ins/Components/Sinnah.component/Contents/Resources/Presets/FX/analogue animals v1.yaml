@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: analogue animals v1
+Params:
+  Wave: 0.25
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.5
+  Sustain1: 0.0825243
+  Release1: 0.432039
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 1
+  ADSR2harm: 1
+  Speed1: 0.565
+  Range1: 0.13
+  Lag1: 0.18
+  On1: 1
+  Speed2: 0.4
+  Range2: 0.21
+  Lag2: 0.195
+  On2: 1
+  Speed3: 0.285
+  Range3: 0.31
+  Lag3: 0.745
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 1
+  FdBkPhase: 1
+  Attack2: 0.441748
+  Release2: 1
+  ReverbSize: 0.823529
+  ReverbMix: 0.235294
+  ReverbOn: 1
+  EQHPHz: 0.2102
+  EQLPHz: 0.691
+  EQBRHz: 0.5665
+  EQBRBW: 0.826
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.91
+  Pan: 0.545
+  Noise: 0.205

@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: arp monohigh
+Params:
+  Wave: 0.75
+  Harmonics: 1
+  Octave: 1
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.315534
+  Sustain1: 0.0339806
+  Release1: 0.218447
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0
+  Range1: 0.04
+  Lag1: 1
+  On1: 1
+  Speed2: 0
+  Range2: 0.075
+  Lag2: 1
+  On2: 1
+  Speed3: 0
+  Range3: 0.13
+  Lag3: 0
+  On3: 1
+  Stereo: 1
+  PolyMono: 1
+  Memory: 0
+  FdBkAmount: 0.115
+  FdBkPhase: 0
+  Attack2: 0
+  Release2: 0.218447
+  ReverbSize: 0.764706
+  ReverbMix: 0.191176
+  ReverbOn: 1
+  EQHPHz: 0.4414
+  EQLPHz: 1
+  EQBRHz: 0.4357
+  EQBRBW: 0.5444
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.85
+  Pan: 0.505
+  Noise: 0.21

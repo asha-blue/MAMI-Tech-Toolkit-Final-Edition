@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Flute pad
+Params:
+  Wave: 0.609724
+  Harmonics: 0.172383
+  Octave: 0.390276
+  Mastertuning: 0.5
+  Attack1: 0.299591
+  Decay1: 0.531497
+  Sustain1: 0.459528
+  Release1: 0.773282
+  Repeat: 0.219448
+  Velosens: 0.7752
+  ADSR2wave: 0.219448
+  ADSR2harm: 0.0744936
+  Speed1: 0.33252
+  Range1: 0.227273
+  Lag1: 0.502968
+  On1: 0.90585
+  Speed2: 0.612996
+  Range2: 0.251642
+  Lag2: 0.734892
+  On2: 1
+  Speed3: 0.798054
+  Range3: 0.275445
+  Lag3: 0.377201
+  On3: 1
+  Stereo: 0.468336
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.181967
+  FdBkPhase: 0
+  Attack2: 0.510833
+  Release2: 0.5656
+  ReverbSize: 0.910265
+  ReverbMix: 0.326233
+  ReverbOn: 1
+  EQHPHz: 0.386948
+  EQLPHz: 0.797367
+  EQBRHz: 0.755349
+  EQBRBW: 0.776494
+  EQBRGain: 0.811701
+  EQOn: 0.90585
+  Gain_out: 0.748625
+  Pan: 0.496949
+  Noise: 0.183209
+  RangeHarmonics: 1

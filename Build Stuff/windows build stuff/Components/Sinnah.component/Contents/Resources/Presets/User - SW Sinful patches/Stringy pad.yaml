@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Stringy pad
+Params:
+  Wave: 0.549986
+  Harmonics: 0.15058
+  Octave: 0.433235
+  Mastertuning: 0.5
+  Attack1: 0.250869
+  Decay1: 0.347318
+  Sustain1: 0.588586
+  Release1: 0.443949
+  Repeat: 0.484408
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.492484
+  Speed1: 0.447271
+  Range1: 0.141093
+  Lag1: 0.698412
+  On1: 0.691032
+  Speed2: 0.485045
+  Range2: 0.12941
+  Lag2: 0.686837
+  On2: 0.807783
+  Speed3: 0.461574
+  Range3: 0.22229
+  Lag3: 0.50398
+  On3: 0.807783
+  Stereo: 0.749749
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.302115
+  FdBkPhase: 0
+  Attack2: 0.442958
+  Release2: 0.545374
+  ReverbSize: 0.861211
+  ReverbMix: 0.308015
+  ReverbOn: 1
+  EQHPHz: 0.344211
+  EQLPHz: 0.619756
+  EQBRHz: 0.563981
+  EQBRBW: 0.623516
+  EQBRGain: 0.382063
+  EQOn: 0.691032
+  Gain_out: 0.754325
+  Pan: 0.525127
+  Noise: 0.102538
+  RangeHarmonics: 0

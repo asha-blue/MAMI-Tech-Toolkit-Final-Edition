@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: lowish tubas
+Params:
+  Wave: 0
+  Harmonics: 0.755
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.276699
+  Sustain1: 0.257282
+  Release1: 0.0533981
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.135
+  Range1: 0.045
+  Lag1: 1
+  On1: 1
+  Speed2: 0.035
+  Range2: 0.045
+  Lag2: 0
+  On2: 1
+  Speed3: 0.075
+  Range3: 0.075
+  Lag3: 0.5
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.395
+  FdBkPhase: 0
+  Attack2: 0.179612
+  Release2: 0.092233
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 0
+  EQHPHz: 0.4508
+  EQLPHz: 0.918
+  EQBRHz: 0.6626
+  EQBRBW: 0.8972
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.71
+  Pan: 0.555
+  Noise: 0

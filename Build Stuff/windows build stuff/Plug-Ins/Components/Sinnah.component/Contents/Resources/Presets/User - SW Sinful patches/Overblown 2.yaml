@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Overblown 2
+Params:
+  Wave: 0.246013
+  Harmonics: 0.486738
+  Octave: 0.252964
+  Mastertuning: 0.5
+  Attack1: 0.144622
+  Decay1: 0.098609
+  Sustain1: 0.100132
+  Release1: 0.412274
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0.0278049
+  ADSR2harm: 0.994376
+  Speed1: 0.414688
+  Range1: 0.0395321
+  Lag1: 0.244117
+  On1: 0.999893
+  Speed2: 0.451205
+  Range2: 0.0244109
+  Lag2: 0.246086
+  On2: 0.999893
+  Speed3: 0.668821
+  Range3: 0.0178475
+  Lag3: 0.547419
+  On3: 0.98599
+  Stereo: 0.919655
+  PolyMono: 0.23625
+  Memory: 0
+  FdBkAmount: 0.547182
+  FdBkPhase: 0.0278049
+  Attack2: 0.0151101
+  Release2: 0.609662
+  ReverbSize: 0.895023
+  ReverbMix: 0.249148
+  ReverbOn: 1
+  EQHPHz: 0.650844
+  EQLPHz: 0.375542
+  EQBRHz: 0.601108
+  EQBRBW: 0.483153
+  EQBRGain: 0.00562353
+  EQOn: 0.502812
+  Gain_out: 0.793142
+  Pan: 0.479989
+  Noise: 0.868194
+  RangeHarmonics: 0

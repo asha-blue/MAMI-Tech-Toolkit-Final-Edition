@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>manufacturer</key>
+	<integer>1314222953</integer>
+	<key>name</key>
+	<string>default</string>
+	<key>subtype</key>
+	<integer>1936289384</integer>
+	<key>type</key>
+	<integer>1635085670</integer>
+	<key>version</key>
+	<integer>1</integer>
+	<key>vstdata</key>
+	<data>
+	Q2NuSwAAAxRGUENoAAAAAXNpbmgAAAABAAAAK2RlZmF1bHQAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAALgLS0tClByZXNldDoKICBwcm9kdWN0OiBTaW5uYWgKICB2ZXJzaW9uOiAw
+	LjkuOAogIGZvcm1hdDogMQogIG5hbWU6IGRlZmF1bHQKUGFyYW1zOgogIFdhdmU6IDAu
+	NQogIEhhcm1vbmljczogMAogIE9jdGF2ZTogMC41CiAgTWFzdGVydHVuaW5nOiAwLjUK
+	ICBBdHRhY2sxOiAwLjMxNTUzNAogIERlY2F5MTogMC41CiAgU3VzdGFpbjE6IDAuNQog
+	IFJlbGVhc2UxOiAwLjgwMDk3MQogIFJlcGVhdDogMAogIFZlbG9zZW5zOiAwLjc3NTIK
+	ICBBRFNSMndhdmU6IDAKICBBRFNSMmhhcm06IDAuNQogIFNwZWVkMTogMC41NjUKICBS
+	YW5nZTE6IDAuMzI1CiAgTGFnMTogMC43MwogIE9uMTogMC41CiAgU3BlZWQyOiAwLjUK
+	ICBSYW5nZTI6IDAuMzMKICBMYWcyOiAwLjQwNQogIE9uMjogMC41CiAgU3BlZWQzOiAw
+	LjUKICBSYW5nZTM6IDAuMjU1CiAgTGFnMzogMC41ODUKICBPbjM6IDAuNQogIFN0ZXJl
+	bzogMQogIFBvbHlNb25vOiAwCiAgTWVtb3J5OiAwCiAgRmRCa0Ftb3VudDogMC40OAog
+	IEZkQmtQaGFzZTogMAogIEF0dGFjazI6IDAuNQogIFJlbGVhc2UyOiAwLjUKICBSZXZl
+	cmJTaXplOiAwLjk4ODA5NQogIFJldmVyYk1peDogMC40NTU4ODIKICBSZXZlcmJPbjog
+	MQogIEVRSFBIejogMC41CiAgRVFMUEh6OiAwLjUKICBFUUJSSHo6IDAuNjE3MQogIEVR
+	QlJCVzogMC41CiAgRVFCUkdhaW46IDAKICBFUU9uOiAwLjUKICBHYWluX291dDogMC42
+	OTMzNDcKICBQYW46IDAuNQogIE5vaXNlOiAwLjMzCg==
+	</data>
+</dict>
+</plist>

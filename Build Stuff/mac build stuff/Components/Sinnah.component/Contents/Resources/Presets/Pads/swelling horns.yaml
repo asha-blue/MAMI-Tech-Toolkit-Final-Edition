@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: swelling horns
+Params:
+  Wave: 0
+  Harmonics: 0
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.150485
+  Decay1: 0
+  Sustain1: 0.257282
+  Release1: 0.364078
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 1
+  Range1: 0.01
+  Lag1: 1
+  On1: 1
+  Speed2: 0
+  Range2: 0
+  Lag2: 0
+  On2: 1
+  Speed3: 0.075
+  Range3: 0.075
+  Lag3: 0.5
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.395
+  FdBkPhase: 0
+  Attack2: 0.179612
+  Release2: 0.0339806
+  ReverbSize: 0.988095
+  ReverbMix: 0.147059
+  ReverbOn: 1
+  EQHPHz: 0.381
+  EQLPHz: 0.594
+  EQBRHz: 0.6626
+  EQBRBW: 0.676
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.535
+  Pan: 0.555
+  Noise: 0

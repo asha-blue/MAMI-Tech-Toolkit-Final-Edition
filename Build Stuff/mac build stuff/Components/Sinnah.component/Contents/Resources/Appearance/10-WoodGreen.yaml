@@ -1,0 +1,28 @@
+---
+Theme:
+  product: Sinnah
+  version: 1.1
+  format: 1
+  name: wood green
+Appearance:
+  mainBackgroundRGB: [38,43,10]
+  controlBackgroundRGB: [53,54,10]
+  highlightLineRGB: [142,142,10]
+  plainLineRGB: [142,142,10]
+  highlightFrameRGB: [10, 10, 2]
+  plainFrameRGB: [142,142,10]
+  displayValueFontRGB: [254, 254, 102]
+  activeValueFontRGB: [254, 254, 102]
+  inactiveValueFontRGB: [146,146,142]
+  controlActiveRGB: [186,162,10]
+  controlInactiveRGB: [104, 104, 104]
+  sliderTrackBackRGB: [10, 10, 2]
+  sliderTrackFrontRGB: [142,142,10]
+  knobRimRGB: [33, 33, 2]
+  knobIndicatorRGB: [250, 250, 102]
+  labelFontRGB: [152,198,142]
+  tooltipFontRGB: [250, 250, 102]
+  graphBackgroundRGB: [43,43,10]
+  graphSignalRGB: [200, 200, 200]
+  graphPeakRGB: [146, 0, 0]
+  graphClipRGB: [146, 0, 0]

@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: native drone
+Params:
+  Wave: 0
+  Harmonics: 0.68
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.092233
+  Decay1: 0.0145631
+  Sustain1: 0.247573
+  Release1: 0.985437
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.23
+  Range1: 0.165
+  Lag1: 0
+  On1: 1
+  Speed2: 0.27
+  Range2: 0.05
+  Lag2: 0.5
+  On2: 1
+  Speed3: 0
+  Range3: 0
+  Lag3: 0.13
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.52
+  FdBkPhase: 0
+  Attack2: 0
+  Release2: 1
+  ReverbSize: 1
+  ReverbMix: 0.308824
+  ReverbOn: 1
+  EQHPHz: 0.4504
+  EQLPHz: 0.5855
+  EQBRHz: 0.5055
+  EQBRBW: 0.436
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.545
+  Pan: 0.51
+  Noise: 0.15

@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Choral lead
+Params:
+  Wave: 0.110041
+  Harmonics: 0.555688
+  Octave: 0.283992
+  Mastertuning: 0.5
+  Attack1: 0.201479
+  Decay1: 0.48363
+  Sustain1: 0.868248
+  Release1: 0.508298
+  Repeat: 0.555688
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.224229
+  Speed1: 0.905603
+  Range1: 0.196102
+  Lag1: 0.616572
+  On1: 0.506148
+  Speed2: 0.764819
+  Range2: 0.146363
+  Lag2: 0.603643
+  On2: 0.228304
+  Speed3: 0.513953
+  Range3: 0.563558
+  Lag3: 0.66786
+  On3: 0.228304
+  Stereo: 0.991946
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.979976
+  FdBkPhase: 0.415574
+  Attack2: 0.549462
+  Release2: 0.713374
+  ReverbSize: 0.894163
+  ReverbMix: 0.62982
+  ReverbOn: 1
+  EQHPHz: 0.345989
+  EQLPHz: 0.621926
+  EQBRHz: 0.610378
+  EQBRBW: 0.665866
+  EQBRGain: 0.0122961
+  EQOn: 0.506148
+  Gain_out: 0.79177
+  Pan: 0.489611
+  Noise: 0.00665896
+  RangeHarmonics: 0

@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: who speaks
+Params:
+  Wave: 1
+  Harmonics: 0
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.11165
+  Decay1: 0
+  Sustain1: 0
+  Release1: 0.121359
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 1
+  ADSR2harm: 0
+  Speed1: 0.54
+  Range1: 0.145
+  Lag1: 1
+  On1: 1
+  Speed2: 0.595
+  Range2: 0.11
+  Lag2: 0.69
+  On2: 1
+  Speed3: 0.575
+  Range3: 0.08
+  Lag3: 0.67
+  On3: 1
+  Stereo: 0.895
+  PolyMono: 1
+  Memory: 1
+  FdBkAmount: 0.18
+  FdBkPhase: 0
+  Attack2: 0
+  Release2: 0
+  ReverbSize: 0.382353
+  ReverbMix: 0.132353
+  ReverbOn: 1
+  EQHPHz: 0.4521
+  EQLPHz: 0.659
+  EQBRHz: 0.6493
+  EQBRBW: 0.657
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.845
+  Pan: 0.5
+  Noise: 0.115

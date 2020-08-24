@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Complex flute thing
+Params:
+  Wave: 0.682053
+  Harmonics: 0.727522
+  Octave: 0.692577
+  Mastertuning: 0.5
+  Attack1: 0.0355174
+  Decay1: 0.169915
+  Sustain1: 0.0597555
+  Release1: 0.485707
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0.0420968
+  ADSR2harm: 0.943718
+  Speed1: 0.217785
+  Range1: 0.0747187
+  Lag1: 0.704996
+  On1: 0.943718
+  Speed2: 0.216178
+  Range2: 0.0921297
+  Lag2: 0.669044
+  On2: 0.943718
+  Speed3: 0.81583
+  Range3: 0.0632872
+  Lag3: 0.62755
+  On3: 0.92267
+  Stereo: 0.97584
+  PolyMono: 0.615247
+  Memory: 0
+  FdBkAmount: 0.654552
+  FdBkPhase: 0.0420968
+  Attack2: 0.0748777
+  Release2: 0.461947
+  ReverbSize: 0.953453
+  ReverbMix: 0.517044
+  ReverbOn: 1
+  EQHPHz: 0.545061
+  EQLPHz: 0.257285
+  EQBRHz: 0.512016
+  EQBRBW: 0.529076
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.692235
+  Pan: 0.446522
+  Noise: 0.620407
+  RangeHarmonics: 0

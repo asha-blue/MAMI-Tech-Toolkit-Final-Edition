@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: flutes and brass
+Params:
+  Wave: 0
+  Harmonics: 0
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.131068
+  Decay1: 0.11165
+  Sustain1: 0.354369
+  Release1: 0.0631068
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.77
+  Range1: 0.065
+  Lag1: 0.5
+  On1: 0.5
+  Speed2: 1
+  Range2: 0.045
+  Lag2: 0
+  On2: 0.5
+  Speed3: 0.255
+  Range3: 0.015
+  Lag3: 1
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.53
+  FdBkPhase: 0
+  Attack2: 0.0728155
+  Release2: 0.839806
+  ReverbSize: 0.397059
+  ReverbMix: 0.485294
+  ReverbOn: 1
+  EQHPHz: 0.413
+  EQLPHz: 0.4698
+  EQBRHz: 0.18
+  EQBRBW: 0.3671
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.96
+  Pan: 0.5
+  Noise: 0.405
