@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: omnibeat chords
+Params:
+  Wave: 0.5
+  Harmonics: 1
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.0145631
+  Decay1: 0.859223
+  Sustain1: 0.490291
+  Release1: 0.820388
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 1
+  Range1: 0.38
+  Lag1: 0
+  On1: 1
+  Speed2: 1
+  Range2: 0.475
+  Lag2: 0
+  On2: 1
+  Speed3: 0.075
+  Range3: 0.075
+  Lag3: 0.5
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.34
+  FdBkPhase: 1
+  Attack2: 0.334951
+  Release2: 0.878641
+  ReverbSize: 0.632353
+  ReverbMix: 0.161765
+  ReverbOn: 1
+  EQHPHz: 0.5125
+  EQLPHz: 0.9627
+  EQBRHz: 0.4112
+  EQBRBW: 0.1168
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.77
+  Pan: 0.58
+  Noise: 0.125

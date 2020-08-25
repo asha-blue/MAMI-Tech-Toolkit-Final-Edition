@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: some filters
+Params:
+  Wave: 0
+  Harmonics: 0.305
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0.529126
+  Decay1: 0.0533981
+  Sustain1: 0
+  Release1: 0.121359
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.54
+  Range1: 0.035
+  Lag1: 0
+  On1: 1
+  Speed2: 0.595
+  Range2: 0
+  Lag2: 0
+  On2: 1
+  Speed3: 0.575
+  Range3: 0
+  Lag3: 0.5
+  On3: 1
+  Stereo: 0.895
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.53
+  FdBkPhase: 1
+  Attack2: 0
+  Release2: 0.917476
+  ReverbSize: 0.720588
+  ReverbMix: 0.161765
+  ReverbOn: 1
+  EQHPHz: 0.1417
+  EQLPHz: 0.542
+  EQBRHz: 0.6277
+  EQBRBW: 0.722
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.845
+  Pan: 0.43
+  Noise: 1

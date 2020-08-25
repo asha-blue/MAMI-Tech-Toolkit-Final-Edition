@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML>
+<HEAD>
+ 
+  <TITLE>appearance guide</TITLE>
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <STYLE type="text/css">
+<!--
+  PRE {  font: normal 12pt/normal Arial, Helvetica, sans-serif; color: #000000; text-decoration: none; background: #FFFFFF}
+  table, th, td {
+        border: 3px dashed #CCBBFF;
+                width : 651px;
+                padding : 12px;
+                border-spacing: 5px 3px;
+                font: normal 12pt/normal Arial, Helvetica, sans-serif;  
+                line-height: 143%;
+                color: #000000; text-decoration: none; background: #FFFFFF;
+  } 
+
+ html, body {
+		width: 800px;
+		height: 100%;
+		padding : 12px;  
+	}
+
+  --> 
+  </STYLE>
+</HEAD>
+
+<BODY>
+        <P><FONT face="Arial, Helvetica, sans-serif" size="3"><B>Appearance Guide</B>: How to make your own colour schemes for Sinnah.</A></FONT></P>
+  <TABLE class="table">
+    <TR>
+      <TD>
+        <P>Here below you can see what is inside the <B>00-GreenGreen.yaml</B> file from
+         \Sinnah\Appearance\Factory\ on Windows
+         or
+         [Sinnah plugin bundle]/Contents/Resources/Appearance on Mac OS X:</P>
+		   <HR>
+<PRE>
+---
+Theme:
+  product: Sinnah
+  version: 1.1
+  format: 1
+  name: green green
+Appearance:
+  mainBackgroundRGB: [24, 26, 29]
+  controlBackgroundRGB: [43, 43, 43]
+  highlightLineRGB: [16, 214, 97]
+  plainLineRGB: [132, 132, 132]
+  highlightFrameRGB: [132, 132, 132]
+  plainFrameRGB: [32, 32, 32]
+  displayValueFontRGB: [192,192,192]
+  activeValueFontRGB: [16, 182, 97]
+  inactiveValueFontRGB: [129, 129, 129]
+  controlActiveRGB: [16, 182, 97]
+  controlInactiveRGB: [104, 104, 104]
+  sliderTrackBackRGB: [5, 5, 7]
+  sliderTrackFrontRGB: [98, 98, 98]
+  knobRimRGB: [5, 5, 7]
+  knobIndicatorRGB: [250, 250, 250]
+  labelFontRGB: [192, 192, 192]
+  tooltipFontRGB: [197, 197, 197]
+  graphBackgroundRGB: [43, 43, 43]
+  graphSignalRGB: [200, 200, 200]
+  graphPeakRGB: [16, 182, 97]
+  graphClipRGB: [215, 0, 0]
+<PRE>
+   <HR>	
+<P>You can make your own appearance file by copying the example above in any text editor. 
+Then you can change "name:" and all "Appearance:" colours values as [red, green, blue], value range from 0 to 255. 
+To add your custom theme just save your file, using the <B>.yaml</B> extension, into the user "appearance" directory for your platform:
+<UL>
+<LI>Windows: \Sinnah\Appearance\User\</LI>
+<LI>Mac OS X: ~/Library/Application Support/NUSofting Data/Sinnah/Appearance/</LI>
+</UL>
+(examples: 00_MyScheme.yaml)
+Then click "reload appearance" in the <B>"?"</B> menu on the Sinnah toolbar, and your custom appearance
+will appear inside the colour schemes menu on the toolbar, to be selected just like the other colour schemes.
+</P>   
+<A href="appearance_guide.png"><B>Appearance Guide</B>: meaning of the names in the YAML appearance files</A>
+<A href="appearance_guide.png" ><IMG alt="Appearance Guide" src="appearance_guide.png" style="width: 448px; height: 293px; border= 0px;"/></A>		
+        <HR>
+
+        <P><A href="https://www.kvraudio.com/forum/viewforum.php?f=29">NUSofting forum at kvraudio.com</A></P>
+
+      </TD>
+    </TR>
+  </TABLE>
+</BODY>
+</HTML>

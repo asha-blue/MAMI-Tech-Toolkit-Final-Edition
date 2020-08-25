@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: strange bells
+Params:
+  Wave: 0
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.208738
+  Sustain1: 0.0436893
+  Release1: 0
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.385
+  Range1: 0.04
+  Lag1: 0.57
+  On1: 0.5
+  Speed2: 0.225
+  Range2: 0.01
+  Lag2: 1
+  On2: 0.5
+  Speed3: 0.27
+  Range3: 0.025
+  Lag3: 0.725
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.94
+  FdBkPhase: 0
+  Attack2: 0.218447
+  Release2: 1
+  ReverbSize: 0.279412
+  ReverbMix: 0.558824
+  ReverbOn: 1
+  EQHPHz: 0.5
+  EQLPHz: 0.251
+  EQBRHz: 0.405
+  EQBRBW: 0.5
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.725
+  Pan: 0.5
+  Noise: 1

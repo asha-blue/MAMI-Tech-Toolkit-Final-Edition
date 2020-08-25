@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: repeat pings
+Params:
+  Wave: 0.5
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.0825243
+  Sustain1: 0.334951
+  Release1: 0.898058
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.2
+  Range1: 0.185
+  Lag1: 0
+  On1: 0
+  Speed2: 0.47
+  Range2: 0.21
+  Lag2: 0.075
+  On2: 0
+  Speed3: 0.5
+  Range3: 0.44
+  Lag3: 0.075
+  On3: 0
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.965
+  FdBkPhase: 0
+  Attack2: 0.34466
+  Release2: 0.34466
+  ReverbSize: 0.988095
+  ReverbMix: 0.308824
+  ReverbOn: 1
+  EQHPHz: 0.4504
+  EQLPHz: 0.4564
+  EQBRHz: 0.4418
+  EQBRBW: 0.4973
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.865
+  Pan: 0.5
+  Noise: 0.045

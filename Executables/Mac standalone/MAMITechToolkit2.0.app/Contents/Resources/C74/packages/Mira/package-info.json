@@ -1,0 +1,42 @@
+{
+	"author" : "Cycling '74",
+	"authors" : [  ],
+	"description" : "Mira automatically connects to Max and mirrors your interface. This Mira Package update (version 1.2.0) is required for use of the Miraweb Package.",
+	"displayname" : "",
+	"extends" : "",
+	"extensible" : 0,
+	"homepatcher" : "",
+	"max_version_max" : "none",
+	"max_version_min" : "7.1",
+	"name" : "Mira",
+	"os" : 	{
+		"macintosh" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "none"
+		}
+,
+		"windows" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "none"
+		}
+
+	}
+,
+	"package_extra" : 	{
+
+	}
+,
+	"tags" : [  ],
+	"version" : "1.2.1",
+	"website" : "https://cycling74.com",
+	"filelist" : 	{
+		"examples" : [ "mira.mt.demo.maxpat" ],
+		"externals" : [ "mira.frame.mxe", "mira.frame.mxe64", "mira.frame.mxo", "mira.motion.mxe", "mira.motion.mxe64", "mira.motion.mxo", "mira.multitouch.mxe", "mira.multitouch.mxe64", "mira.multitouch.mxo" ],
+		"patchers" : [ "mira.mo.accel.maxpat", "mira.mo.compass.maxpat", "mira.mo.gravity.maxpat", "mira.mo.orientation.maxpat", "mira.mo.rawaccel.maxpat", "mira.mo.rawgyro.maxpat", "mira.mo.rawmagnet.maxpat", "mira.mo.rotationrate.maxpat", "mira.mt.centroid.js", "mira.mt.centroid.maxpat", "mira.mt.fingers.maxpat", "mira.mt.pinch.maxpat", "mira.mt.region.maxpat", "mira.mt.rotate.maxpat", "mira.mt.swipe.maxpat", "mira.mt.tap.maxpat", "mira.mt.touch.maxpat", "mira.mt.travel.maxpat", "mira.mt.velocity.maxpat" ],
+		"help" : [ "Mira-100px.png", "mira.frame.maxhelp", "mira.motion.maxhelp", "mira.multitouch.maxhelp" ],
+		"interfaces" : [ "mira.db.json", "obj-qlookup.json" ],
+		"misc" : [ "mira.frame.svg", "mira.multitouch.svg", "mirabadge.svg" ],
+		"docs" : [ "_c74_common.css", "_c74_common.xml", "_c74_common.xsl", "_c74_compat.html", "_c74_platform.xsl", "_c74_ref.xsl", "_c74_ref_common.xsl", "_c74_vig.xsl", "_c74_vig_common.xsl", "images/mira.frame.png", "images/mira.motion.png", "images/mira.multitouch.png", "mira.frame.maxref.xml", "mira.motion.maxref.xml", "mira.multitouch.maxref.xml" ]
+	}
+
+}

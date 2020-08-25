@@ -1,0 +1,65 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.1.0 beta
+  format: 1
+  name: gates of ice
+Params:
+  Wave: 0.5
+  Harmonics: 0.05
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.092233
+  Decay1: 0.5
+  Sustain1: 0.0631068
+  Release1: 1
+  Repeat: 1
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0
+  Speed1: 0.06
+  Range1: 0.655
+  Lag1: 0.24
+  On1: 1
+  Speed2: 0
+  Range2: 0.265
+  Lag2: 1
+  On2: 1
+  Speed3: 0
+  Range3: 0.21
+  Lag3: 0.5
+  On3: 1
+  Stereo: 1
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.78
+  FdBkPhase: 0
+  Attack2: 0.160194
+  Release2: 0.509709
+  ReverbSize: 1
+  ReverbMix: 0.294118
+  ReverbOn: 1
+  EQHPHz: 0.464
+  EQLPHz: 0.449
+  EQBRHz: 0.5131
+  EQBRBW: 0.663
+  EQBRGain: 0
+  EQOn: 1
+  Gain_out: 0.653347
+  Pan: 0.5
+  Noise: 0
+  RangeHarmonics: 1
+  LFO1Type: 0
+  LFO1Speed: 0.4578
+  LFO1Delay: 0.326
+  LFO1Depth: 1
+  PBrange: 0.5
+  KTCenter: 0.5
+  KTSlope: 0.5
+  KTToAmplitude: 0
+  KTToHarmonics: 0
+  NoiseHamonicsLink: 0
+  LFO1Targets: 4
+  unused: 0
+  CCTargets: 0
+  ATTargets: 0

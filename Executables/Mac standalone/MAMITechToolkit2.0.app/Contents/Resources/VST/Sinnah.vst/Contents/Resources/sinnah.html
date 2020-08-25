@@ -1,0 +1,238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<HTML>
+<HEAD>
+ 
+  <TITLE>sinnah</TITLE>
+  <META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <STYLE type="text/css">
+<!--
+  PRE {  font: normal 12pt/normal Arial, Helvetica, sans-serif; color: #000000; text-decoration: none; background: #FFFFFF}
+  table, th, td {
+        border: 3px dashed #CCBBFF;
+                width : 651px;
+                padding : 12px;
+                border-spacing: 5px 3px;
+                font: normal 12pt/normal Arial, Helvetica, sans-serif;  
+                line-height: 143%;
+                color: #000000; text-decoration: none; background: #FFFFFF;
+  } 
+
+ html, body {
+		width: 800px;
+		height: 100%;
+		padding : 12px;  
+	}
+
+  --> 
+  </STYLE>
+</HEAD>
+
+<BODY>
+
+<FONT face="Arial, Helvetica, sans-serif" size="2">[<A href="appearance_guide.html"><B>Appearance Guide</B>: How to make your own colour schemes for Sinnah.</A>]
+  <BR>
+  <P><FONT face="Arial, Helvetica, sans-serif" size="3"><B>Sinnah 1.1 Many New Features!</B> [LFO, pitchbend range, ModWheel,
+  Aftertouch, keytracking]</FONT><BR>
+  <BR>
+  <FONT face="Arial, Helvetica, sans-serif" size="2"><B><A href="#synth">1) What is it?</A></B> - <B><A href="#delay">2) About the Delay Matrix</A></B> - <B><A href="#modulations">3)
+  About Modulations</A></B> - <B><A href="#features">4) Planned features</A></B> - <B><A href="#issues">5) Known
+  issues</A></B></FONT></P>
+
+  <TABLE class="table">
+    <TR>
+      <TD>
+        <P><A name="synth" id="synth"></A> <B>The Synth</B></P>
+
+        <P>&quot;Sinnah the sinner, is its sin to be free, or is its sin to sound so lush?&quot;<BR></P>
+
+        <P>Sinnah is a synth based on a single complex oscillator that includes five waveshapes with increasing spectral
+        complexity, harmonics level for all waveshapes, noise level, and a delay matrix.</P>
+
+        <P>The delay matrix can have various configurations, from a &quot;triple chorus&quot; per voice to highly randomized
+        resonators, or tuned relatively to the note played.<BR>
+        The delay matrix can also do multiple slapback echoes.<BR>
+        The feedback control of the matrix can go from zero to extremely saturated and it&#39;s modulated by its own envelope.<BR>
+        The output of each voice is stereo via the delay matrix, which features a stereo spread knob.<BR>
+        The main analogue modelled ADSR envelope is loopable: two, three or continuous repeats.</P>
+
+        <P>The envelope can modulate the waveshape selection and the harmonics level.</P>
+
+        <P>The synth also features a subtractive stereo filter to carve the spectrum of the sound, somewhat like an equalizer, with
+        three filters: high pass, low pass and band reject (notch).<BR>
+        The band reject filter also features gain and bandwidth controls.</P>
+
+        <P>Moreover a useful simple reverb is included.</P>
+
+        <P>The oscillator is antialiased and can play eight voices or mono, and features octave and fine pitch controls.</P>
+
+        <P>The GUI is fully drawn by vectors and resizeable, featuring an oscilloscope and peak meters. And eight colour schemes
+        are available to fit your mood and taste.<BR>
+        An extended ToolTip display provides information for each control at mouseover.<BR>
+        So you don&#39;t need to read a lengthy manual to learn what a knob or a slider is for.</P>
+
+        <P>The preset system is crossplatform, the files use the YAML format so they are very easy to read and edit if needed.
+        Moreover, the preset names can support the complete international character set.</P>
+
+        <P>Sinnah is a VA synth plugin, but instead of the standard subtractive resonant filter it uses a resonant delay
+        network.</P>
+
+        <P>Hard to describe its sound by words, despite the few controls the array of possible sounds is wide and wild<BR></P>
+
+        <P><A name="delay" id="delay"></A><B>About the delay matrix.</B></P>
+
+        <P>The delay matrix is made of three delay lines (comb filters if you like) feeding into each-other, each delay line is
+        modulated by a LFO, the shape of the LFO is a kind of smoothed sample&amp;hold, pseudo random. A key point is that there is one
+        delay matrix per note (or voice), so if you play for instance a 3 notes chord you&#39;ll be playing nine delay lines
+        modulated with nine LFOs. Since the max voices is set at eight so far, for eight notes playing at the same time, with the
+        delay matrix active and modulated, you have 24 delay lines and 24 LFOs running.</P>
+
+        <P>Next thing to learn is that the delay lines can be tuned relatively to the frequency of the played note. That happens
+        when the |memory| switch is off. You can tune each delay (comb filter) from zero to -24 semitones. At zero the delay line
+        will have the same length of of cycle of the wave from the oscillator, hence resonating at the same frequency. The amount
+        of resonance is given by the feedback level and its envelope. With &quot;lag&quot; at -12 the delay line will resonate one
+        octave lower, and so on. So you see that with three delay lines per note and 24 semitones range for each delay you can
+        create a great number of possible spectral variations, but the delay lines as said above also feed into each-other, so when
+        you use more than one delay line you actually multiply the resonances.</P>
+
+        <P>Note that the feedback signal in the delay matrix is saturated by a waveshaper therefore the higher the feedback level
+        the more harmonics it will generate, getting into distortion. The phase switch inverts the feedback signal creating more
+        dispersion and reducing the modulations from the LFOs.</P>
+
+        <P>When the |memory| switch is on then the &quot;lag&quot; knobs display their values in milliseconds, now the delays line
+        are no longer tuned to the oscillator frequencies and you can use the delays for echoes (up to 250 ms) or fixed resonances
+        (when few ms are used).</P>
+
+        <P>Depth (from zero to 10 ms) and Speed (from zero to 12 Hz) knobs adjust the modulation for each delay line. You can use
+        those for subtle flanging, wide chorus or wild modulations, depending also on how you set the delay lines. The factory
+        presets, there are 80 now, should give you some examples.</P>
+
+        <P><A name="modulations" id="modulations"></A><B>About Modulations.</B></P>
+
+        <P>Understanding Sinnah&#39;s modulations is paramount for enhanced sound design.</P>
+
+        <P>As many as ten modulation sources are featured in the 1.1 release. Some of them are simple and dedicated to one or two
+        targets, others have more options.</P>
+
+        <P><B># 1)</B> The ADSR envelope always modulates the amplitude of the sound as you may expect. Moreover it can be routed to
+        change the &quot;wave&quot; number and to modulate the &quot;harmonics&quot; parameter amount. Note that if the
+        &quot;link&quot; switch below &quot;noise&quot; is on, the parameter &quot;noise&quot; will also be modulated. Note also
+        that when the envelope is routed to &quot;harmonics&quot; you have the maximum effect when the &quot;full&quot; switch is
+        on and the &quot;harmonics&quot; knob is turned hard right.</P>
+
+        <P><B># 2)</B> The delay matrix has three dedicated LFOs, one for each delay line. Each of those features a single smoothed random
+        waveshape, similar to the so-called &quot;sample &amp; hold&quot;, and modulates the delay time (or tuning, depending on the
+        &quot;memory&quot; switch). The depth of modulation is controlled by the &quot;range&quot; knob, whose value is displayed
+        in milliseconds. The rate of the LFO is controlled by the &quot;speed&quot; knob, which displays its value in hertz.</P>
+
+        <P><B># 3)</B> The delay matrix feedback amount is modulated by its own AR envelope, which allows to fade in and fade out the
+        amount of feedback. Note that the AR ranges of this envelope are greater than those in the amplitude ADSR.</P>
+
+        <P><B># 4)</B> The LFO in the &quot;tweaks&quot; zone is the most versatile of the modulation sources. The five controls for the
+        LFO are:</P>P-1) &quot;type&quot;: a menu to select the type of waveshape to be used. There are nine to chose from:
+        &quot;Λ&quot; for a triangular waveshape, &quot;/&quot; for a ramp up waveshape, &quot;Π&quot; for a square waveshape,
+        &quot;\&quot; for a ramp down waveshape, &quot;~&quot; for a sine waveshape, &quot;noise1&quot; for filtered noise source,
+        &quot;S+H1&quot; for standard randomized &quot;sample &amp; hold&quot; source, &quot;noise2&quot; for more filtered noise
+        source, &quot;S+H2&quot; for smoothed randomized &quot;sample &amp; hold&quot; source.<BR><BR>
+        P-2) &quot;speed&quot; : a box slider to adjust the LFO rate in hertz for the periodic waveshapes and fine tunes the
+        relative filter for the &quot;noise1&quot; and &quot;noise2&quot; waveshapes.<BR><BR>
+        P-3) &quot;delay&quot; : a box slider to adjust the delay applied to the LFO depth, in seconds. The depth is faded in from
+        zero to the selected depth.<BR><BR>
+        P-4) &quot;depth&quot; : a box slider to adjust the amount of modulation. Note that the display can change according to the
+        selected LFO target. When the value range is 0.0 .. 1.0 it means that at 1.0 the target is modulated from zero to the value
+        set in target control. For instance if the target is &quot;harmonics&quot; and its knob is in the middle position, with LFO
+        depth at 1.0 the &quot;harmonics&quot; will be modulated from zero to that middle value. When the value of the
+        &quot;depth&quot; display is negative (where available) the phase of the LFO waveshape will be inverted, that allows some
+        subtle variations.<BR><BR>
+        P-5) &quot;target&quot; : a menu to select the destination of the LFO modulation. Currently in Sinnah 1.1 there are eight
+        LFO targets, this will be expanded in the future versions.<BR>
+
+        <P><B># 5)</B> Sinnah 1.1 has five MIDI controls. These are the velocity sensitivity for the ADSR envelope, the Pitchbend range,
+        the ModWheel (CC 1) routing, the Aftertouch routing and the keytracking (note number to level). <BR>ModWheel (MW) always
+        modulates the target value from zero to the value set by the relative knob.<BR> Aftertouch (AT) modulates the target value in a
+        similar way but with a reduced range appropriate for each selected target. <BR>The keytracking (keytrk) scales the value of the
+        target relatively to the note played. There are two keytracking controls: one to set the centre note (the one that will not
+        be affected). The other one adjusts the slope of the curve that maps the level per key to the scaling of the
+        target.</P>
+		
+		
+		<A href="appearance_guide.html"><B>Appearance Guide</B>: How to make your own colour schemes for Sinnah.</A>
+		
+        <HR>
+
+        <P><A name="features" id="features"></A><B>Planned features</B></P>
+
+        <P>For this freeware 1.1 edition an LFO was added, and adjustable pitchbend range, ModWheel, Aftertouch, keytracking on
+        Harmonics and Volume, sustain pedal as well.</P>
+
+        <P>I will try to upgrade Sinnah following the requests submitted by users. So it means that we start with a features list
+        and you can vote for your favourites, and even suggest features not listed yet.</P>
+
+        <P>The features with a rate of five or above will be implemented in the Sinnah freeware, when we&#39;ll reach what I think
+        it can be a critical threshold, Sinnah will split in Sinnah freeware and Sinnah Pro.</P>
+
+        <P>Sinnah freeware will keep the features up to the &quot;critical threshold&quot; and will stay free.<BR>
+        All next new features would be implemented in Sinnah Pro which will be payware.</P>
+
+        <P>To vote for a features you can simply write on our forum or send an e-mail to nusofting@liqihsynth.com.</P>
+
+        <P>This is the first NUSofting plugin to use our brand new framework for development, thus we&#39;ll be very happy to read
+        any report and suggestion of improvement.</P>
+
+        <P><B>Possible features planned so far for Sinnah Pro or Sinnah freeware:</B><BR>
+        [= votes so far for features not yet implemented in 1.1]</P>
+
+        <P><B>source:</B><BR>
+        # : phase controls in oscillator = 1<BR>
+        # : noise filter adjustable and with its own envelope = 1<BR>
+        # : glide with type and time controls = 1<BR>
+        # : drawable waveshape and short samples import = 1 &amp; 1<BR>
+        # : resonant HP/LP filter pre or post delay matrix = 1<BR>
+        # : more control of formants<BR>
+        # : attack transients layer, for percussive sounds = 1<BR>
+        # : pitch envelope = 5 [next update]<BR></P>
+
+        <P><B>delay matrix:</B><BR>
+        # : LFOs waveshapes and sync to tempo selectable<BR>
+        # : lag times in tempo divisions<BR>
+        # : sustain control in feedback envelope<BR>
+        # : choice of various waveshapers in feedback path<BR>
+        # : lower bit 4, 8, 12 resolutions<BR>
+        # : macro controls<BR></P>
+
+        <P><B>others:</B><BR>
+        # : arpeggiator = 1<BR>
+        # : trancegate = 1<BR>
+        # : phaser<BR>
+        # : bit crusher<BR>
+        # : MIDI learn for any control and MIDI map presets = 2<BR>
+        # : adjustable refresh rate for oscilloscope and peak meters<BR>
+        # : switch to turn tooltips off<BR>
+        # : A &lt;&gt; B presets morphing = 1<BR>
+        # : bigger popup to display controls value<BR>
+        # : light background colours option = 3<BR>
+        # : Linux build = 1 // users got it so far to run under wine installing gdiplus.dll<BR>
+        # : switch to set the EQ to &quot;bell mode&quot;, bandpass = 2</P>
+
+        <P><BR>
+        You are invited to rate the features above or to suggest others not listed here.<BR>
+        You will be heard.<BR>
+        Write to <SPAN style="font-weight: bold">nusofting@liqihsynth.com</SPAN> or in <A href=
+        "https://www.kvraudio.com/forum/viewforum.php?f=29">NUSofting forum at kvraudio.com</A></P>
+        <HR>
+
+        <P><A name="issues" id="issues"></A><B>Known issues</B></P>
+
+        <P>This Sinnah 1.1 still has three <B>small known issues</B> that will be fixed in the next update, they are:</P># : The
+        lowest SampleRate is currently limited at 44100, so you may receive a warning message from your host during scanning.<BR>
+        # : The GUI of Sinnah may get a little garbled after resize, to fix that you only need to close and reopen it.<BR>
+        # : Currently the voice stealing method is a little rough, this will be improved in the next versions.
+
+        <P>Sinnah was tested so far on OS X 10.11, Windows XP to Windows 10.<BR>
+        Please report any other issue you may find.</P>
+      </TD>
+    </TR>
+  </TABLE>
+</BODY>
+</HTML>

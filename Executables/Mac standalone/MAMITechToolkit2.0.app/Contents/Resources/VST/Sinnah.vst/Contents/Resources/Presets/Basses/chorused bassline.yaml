@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: chorused bassline
+Params:
+  Wave: 0
+  Harmonics: 0
+  Octave: 0
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.548544
+  Sustain1: 0.0339806
+  Release1: 0.0631068
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.41
+  Range1: 0.315
+  Lag1: 0.395
+  On1: 1
+  Speed2: 0.24
+  Range2: 0.355
+  Lag2: 0.515
+  On2: 1
+  Speed3: 0.5
+  Range3: 0.245
+  Lag3: 0.255
+  On3: 1
+  Stereo: 1
+  PolyMono: 1
+  Memory: 0
+  FdBkAmount: 0.385
+  FdBkPhase: 1
+  Attack2: 0
+  Release2: 0
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 0
+  EQHPHz: 0.079
+  EQLPHz: 0
+  EQBRHz: 0.3801
+  EQBRBW: 0.305
+  EQBRGain: 0.636
+  EQOn: 0.5
+  Gain_out: 0.985
+  Pan: 0.5
+  Noise: 0

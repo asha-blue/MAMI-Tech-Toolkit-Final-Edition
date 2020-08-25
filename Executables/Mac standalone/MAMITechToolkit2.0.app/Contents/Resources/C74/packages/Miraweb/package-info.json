@@ -1,0 +1,45 @@
+{
+	"author" : "Cycling '74",
+	"authors" : [  ],
+	"description" : "Mirror your Max patch on any device that is running a modern web browser. Please note that the Miraweb Package v1.2.3 requires the Mira Package v1.2.1 or higher.",
+	"displayname" : "",
+	"extends" : "",
+	"extensible" : 0,
+	"homepatcher" : "miraweb_launch.maxpat",
+	"max_version_max" : "none",
+	"max_version_min" : "7.3.2",
+	"name" : "Miraweb",
+	"os" : 	{
+		"macintosh" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "none"
+		}
+,
+		"windows" : 		{
+			"platform" : [ "ia32", "x64" ],
+			"min_version" : "none"
+		}
+
+	}
+,
+	"package_extra" : 	{
+
+	}
+,
+	"tags" : [ "mira" ],
+	"version" : "1.2.4",
+	"website" : "http://www.cycling74.com",
+	"filelist" : 	{
+		"extensions" : [ "mira_ws_server.mxe", "mira_ws_server.mxe64", "mira_ws_server.mxo" ],
+		"externals" : [ "mira.channel.mxe", "mira.channel.mxe64", "mira.channel.mxo", "mira.status.mxe", "mira.status.mxe64", "mira.status.mxo" ],
+		"help" : [ "mira.channel.maxhelp", "mira.status.maxhelp", "mira_channel_example.html" ],
+		"jsextensions" : [ "interface.js" ],
+		"misc" : [ "app.js", "index.html", "static/.cache", "static/apple-touch-icon-114x114.png", "static/apple-touch-icon-120x120.png", "static/apple-touch-icon-144x144.png", "static/apple-touch-icon-152x152.png", "static/apple-touch-icon-167x167.png", "static/apple-touch-icon-180x180.png", "static/apple-touch-icon-57x57.png", "static/apple-touch-icon-60x60.png", "static/apple-touch-icon-72x72.png", "static/apple-touch-icon-76x76.png", "static/apple-touch-icon-precomposed.png", "static/apple-touch-icon.png", "static/c74_logo.png", "static/favicon-16x16.png", "static/favicon-32x32.png", "static/favicon.ico", "static/github_logo.png", "static/miraweb_logo.png" ],
+		"docs" : [ "mira.channel.maxref.xml", "mira.status.maxref.xml" ],
+		"javascript" : [ "ws.js" ],
+		"extras" : [ "miraweb_launch.maxpat" ]
+	}
+,
+	"c74install" : 1,
+	"installdate" : -697036872
+}

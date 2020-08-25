@@ -1,0 +1,147 @@
+{
+	"maxdb" : {
+		"tags" : 
+		[ 
+			{
+				"name" : "button",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.button",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "slider",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.slider",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "dial",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.dial",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "comment",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "message",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "toggle",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.toggle",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "fpic",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "number",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "flonum",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.grid",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.numbox",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.tab",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "live.text",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "meter~",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "multislider",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "rslider",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "panel",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "kslider",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "gain~",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "swatch",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "umenu",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "mira.frame",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "mira.motion",
+				"kind" : "object",
+				"tag" : "Mira"
+			},
+			{
+				"name" : "mira.multitouch",
+				"kind" : "object",
+				"tag" : "Mira"
+			}
+		]
+	}
+}

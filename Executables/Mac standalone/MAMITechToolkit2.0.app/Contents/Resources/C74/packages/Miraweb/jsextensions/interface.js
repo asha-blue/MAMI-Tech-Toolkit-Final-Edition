@@ -1,0 +1,1 @@
+maxclasswrap("mira_ws","MiraWebsocketInterface");

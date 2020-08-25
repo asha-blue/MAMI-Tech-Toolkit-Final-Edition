@@ -1,0 +1,65 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.1.0 beta
+  format: 1
+  name: gentle modulations
+Params:
+  Wave: 0.75
+  Harmonics: 0.5
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.674757
+  Sustain1: 0.898058
+  Release1: 0.684466
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 1
+  Speed1: 0.565
+  Range1: 0
+  Lag1: 0.485
+  On1: 0
+  Speed2: 0.5
+  Range2: 0
+  Lag2: 0.295
+  On2: 0.5
+  Speed3: 0
+  Range3: 0
+  Lag3: 0
+  On3: 1
+  Stereo: 0.525
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.995
+  FdBkPhase: 1
+  Attack2: 0.247573
+  Release2: 0.781553
+  ReverbSize: 0.926471
+  ReverbMix: 0.411765
+  ReverbOn: 1
+  EQHPHz: 0.443
+  EQLPHz: 0.5
+  EQBRHz: 0.6171
+  EQBRBW: 0.704
+  EQBRGain: 0
+  EQOn: 0
+  Gain_out: 0.463347
+  Pan: 0.485
+  Noise: 0.12
+  RangeHarmonics: 1
+  LFO1Type: 0
+  LFO1Speed: 0.132
+  LFO1Delay: 0.025
+  LFO1Depth: 0
+  PBrange: 0.5
+  KTCenter: 0.46
+  KTSlope: 0.242
+  KTToAmplitude: 0
+  KTToHarmonics: 1
+  NoiseHamonicsLink: 0
+  LFO1Targets: 6
+  unused: 0
+  CCTargets: 0
+  ATTargets: 0

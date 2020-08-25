@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: key Clavibell
+Params:
+  Wave: 0.5
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.412621
+  Sustain1: 0.0436893
+  Release1: 0.616505
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0
+  Range1: 0
+  Lag1: 0.295
+  On1: 0.5
+  Speed2: 0
+  Range2: 0.01
+  Lag2: 0.28
+  On2: 1
+  Speed3: 0
+  Range3: 0.025
+  Lag3: 1
+  On3: 0
+  Stereo: 0.415
+  PolyMono: 0
+  Memory: 0
+  FdBkAmount: 0.44
+  FdBkPhase: 0
+  Attack2: 0.237864
+  Release2: 0.5
+  ReverbSize: 0.779412
+  ReverbMix: 0.25
+  ReverbOn: 1
+  EQHPHz: 0.036
+  EQLPHz: 1
+  EQBRHz: 0.6598
+  EQBRBW: 0.608
+  EQBRGain: 0
+  EQOn: 0
+  Gain_out: 0.84
+  Pan: 0.54
+  Noise: 0.56

@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Emphatic lead
+Params:
+  Wave: 0.75
+  Harmonics: 0.174762
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0.293099
+  Decay1: 0.56996
+  Sustain1: 0.658066
+  Release1: 0.617589
+  Repeat: 0.174762
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.329279
+  Speed1: 0.709873
+  Range1: 0.124501
+  Lag1: 0.533744
+  On1: 0.647818
+  Speed2: 0.734002
+  Range2: 0.0967159
+  Lag2: 0.553857
+  On2: 0.560437
+  Speed3: 0.624771
+  Range3: 0.234093
+  Lag3: 0.495333
+  On3: 0.560437
+  Stereo: 0.806359
+  PolyMono: 1
+  Memory: 0
+  FdBkAmount: 0.643755
+  FdBkPhase: 0.400646
+  Attack2: 0.499368
+  Release2: 0.744143
+  ReverbSize: 0.863121
+  ReverbMix: 0.520698
+  ReverbOn: 1
+  EQHPHz: 0.318127
+  EQLPHz: 0.706076
+  EQBRHz: 0.649479
+  EQBRBW: 0.725271
+  EQBRGain: 0.295636
+  EQOn: 0.647818
+  Gain_out: 0.763486
+  Pan: 0.489984
+  Noise: 0.0522273
+  RangeHarmonics: 0

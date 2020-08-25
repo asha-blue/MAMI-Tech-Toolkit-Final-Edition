@@ -1,0 +1,51 @@
+---
+Preset:
+  product: Sinnah
+  version: 1.0
+  format: 1
+  name: Air space
+Params:
+  Wave: 0.89375
+  Harmonics: 0.7875
+  Octave: 0.89375
+  Mastertuning: 0.5
+  Attack1: 0.067051
+  Decay1: 0.224757
+  Sustain1: 0.10625
+  Release1: 0.617476
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.89375
+  Speed1: 0.127938
+  Range1: 0.100563
+  Lag1: 0.942625
+  On1: 0.89375
+  Speed2: 0.114125
+  Range2: 0.129188
+  Lag2: 0.873562
+  On2: 0.89375
+  Speed3: 0.89375
+  Range3: 0.08175
+  Lag3: 0.655875
+  On3: 0.89375
+  Stereo: 1
+  PolyMono: 0.7875
+  Memory: 0
+  FdBkAmount: 0.676875
+  FdBkPhase: 0
+  Attack2: 0.10625
+  Release2: 0.370024
+  ReverbSize: 0.988095
+  ReverbMix: 0.65
+  ReverbOn: 1
+  EQHPHz: 0.510238
+  EQLPHz: 0.195238
+  EQBRHz: 0.474248
+  EQBRBW: 0.534965
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.635586
+  Pan: 0.429125
+  Noise: 0.511125
+  RangeHarmonics: 0

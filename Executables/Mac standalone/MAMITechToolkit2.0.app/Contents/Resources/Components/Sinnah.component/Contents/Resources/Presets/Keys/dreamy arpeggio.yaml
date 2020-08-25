@@ -1,0 +1,50 @@
+---
+Preset:
+  product: Sinnah
+  version: 0.9.8
+  format: 1
+  name: dreamy arpeggio
+Params:
+  Wave: 1
+  Harmonics: 1
+  Octave: 0.5
+  Mastertuning: 0.5
+  Attack1: 0
+  Decay1: 0.956311
+  Sustain1: 0.42233
+  Release1: 0.800971
+  Repeat: 0
+  Velosens: 0.7752
+  ADSR2wave: 0
+  ADSR2harm: 0.5
+  Speed1: 0.8
+  Range1: 0.03
+  Lag1: 0.73
+  On1: 0.5
+  Speed2: 0.775
+  Range2: 0.00500001
+  Lag2: 1
+  On2: 0.5
+  Speed3: 0.68
+  Range3: 0.02
+  Lag3: 0.585
+  On3: 0.5
+  Stereo: 1
+  PolyMono: 0
+  Memory: 1
+  FdBkAmount: 0.53
+  FdBkPhase: 0
+  Attack2: 0.092233
+  Release2: 1
+  ReverbSize: 0.988095
+  ReverbMix: 0.702381
+  ReverbOn: 0
+  EQHPHz: 0.1353
+  EQLPHz: 0.207
+  EQBRHz: 0.5772
+  EQBRBW: 0.6239
+  EQBRGain: 0
+  EQOn: 0.5
+  Gain_out: 0.655
+  Pan: 0.5
+  Noise: 0

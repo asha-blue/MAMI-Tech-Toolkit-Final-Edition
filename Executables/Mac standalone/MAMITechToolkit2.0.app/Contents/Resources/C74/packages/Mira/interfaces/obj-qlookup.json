@@ -1,0 +1,38 @@
+{
+
+	"mira.frame": {
+		"palette": {
+  		"pic": "mira.frame.svg",
+  		"category": [
+    		"U/I","Mira"
+  		],
+  		"action": "mira.frame"
+		},
+  		"module": "max",
+  		"category": [
+    		"U/I","Mira"
+  		],
+  		"digest": "Define a remote interface"
+	},
+  	"mira.motion": {
+    "category": [
+      "U/I","Mira"
+    ],
+    "digest": "Report accelerometer data",
+    "module": "max"
+  },
+	"mira.multitouch": {
+		"palette": {
+		"pic": "mira.multitouch.svg",
+		"category": [
+  		"U/I","Mira"
+		],
+		"action": "mira.multitouch"
+		},
+		"module": "max",
+		"category": [
+  		"U/I","Mira"
+		],
+		"digest": "Track the position of multiple fingers"
+	}
+}

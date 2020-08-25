@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>mira.channel example</title>
+</head>
+<body>
+		<div id="container">
+		</div>
+		<script type="text/javascript" src="https://cycling74.s3.amazonaws.com/download/xebra.js"></script>
+		<form>
+			Send to Max:<br>
+			<input type="text" name="tomax" style="font-size: 40px"><br>
+			<input type="button" value="Send" onclick="sendToMax(tomax.value);">
+		</form>
+
+		<br>
+		Receive from Max:<br>
+		<div id="fromMax" align="left" style="color:#0000FF;font-size: 40px">[none]</div><br>
+
+		<script type="text/javascript">
+			var options = {
+				hostname : "localhost", // localhost
+				port : 8086
+			};
+			var xebraState = new Xebra.State(options);
+			xebraState.connect();
+			xebraState.on("channel_message_received", function(chan, msg) {
+				if (chan === "toBrowser") {
+					document.getElementById("fromMax").innerHTML = msg;
+				}
+			});
+
+
+			function sendToMax(val) {
+				xebraState.sendMessageToChannel("fromBrowser", val);
+			}
+		</script>
+</body>
+</html>
