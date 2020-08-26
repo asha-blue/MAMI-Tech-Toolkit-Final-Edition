@@ -35,3 +35,6 @@ well as the Max/MSP gubbins used to create the final applications also split int
 differences between naming mechanisms etc between the two). A folder of the Arduino libraries used is also provided. 
 Build stuff features components that were needed when the application was built within Max/MSP • Each tool in the 
 kit has its own folder featuring the Arduino code and a fritzing diagrams of that tool.
+
+Here is a link to the folder: https://www.dropbox.com/sh/fgj85imfmj5ncv4/AAB2x7WV8botv5XPuldWzTgPa?dl=0 use this to 
+download the whole project as laid out above.
