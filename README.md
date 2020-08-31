@@ -4,7 +4,9 @@ The MAMI Tech Toolkit is a suite of 4 hardware tools and accompanying software a
 
 The toolkit was created as part of a research project within an engineering doctorate undertaken by me (Asha Ward) 
 and thorugh the Centre for Digital Entertainment (https://www.digital-entertainment.org/) situated within the 
-Bournemouth University. The aim was to facilitate access to active music-making.
+Bournemouth University, with funding for  the  CDE  granted  by  the  EPSRC  (code: EP/L016540/1). 
+
+The aim was to facilitate access to active music-making. 
 
 The project was undertaken in collaboration with Luke Woodbury, whose MAMI repository is situated here: 
 
