@@ -30,7 +30,7 @@ This repo contains:
   that is used in the patchers  
   
 * Executables for both Mac and Windows as well as installs of drivers for the Arduino Clone boards used and to
-  enable the third-pary Mira app (https://cycling74.com/products/mira) to be used with the Windows application
+  enable the third-party Mira app (https://cycling74.com/products/mira) to be used with the Windows application
   
 * MAMITechToolkit documentation folder with a manual and intro to the kit which details information about the 
   hardware and how to use the software. Welcome to the Toolkit.pdf contains pictures of the MAMI Tech Toolkit 
