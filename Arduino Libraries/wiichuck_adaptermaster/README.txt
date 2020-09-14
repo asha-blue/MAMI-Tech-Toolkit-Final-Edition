@@ -1,3 +1,5 @@
+This is a third party library. See below!
+
 Very simple adpater for hooking a Wii Nunchuck to your Arduino 
 or other microcontroller.
 
